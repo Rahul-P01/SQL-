@@ -27,9 +27,6 @@ Each day includes:
 
 ---
 
-## 📂 Repository Structure & follow the Notion To-do list. 
-
-
 ## 📚 Datasets Used
 - 🛒 [Online Retail Dataset](https://www.kaggle.com/datasets/hellbuoy/online-retail-dataset) → Week 1 (Foundations)  
 - 🏢 [AdventureWorks Sample DB](https://github.com/Microsoft/sql-server-samples) → Week 2 (Advanced Querying)  
