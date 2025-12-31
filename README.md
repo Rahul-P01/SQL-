@@ -28,3 +28,38 @@ Each day includes:
 ---
 
 ## 📂 Repository Structure & follow the Notion To-do list. 
+
+
+## 📚 Datasets Used
+- 🛒 [Online Retail Dataset](https://www.kaggle.com/datasets/hellbuoy/online-retail-dataset) → Week 1 (Foundations)  
+- 🏢 [AdventureWorks Sample DB](https://github.com/Microsoft/sql-server-samples) → Week 2 (Advanced Querying)  
+- 📞 [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) → Week 3 (Data Engineering)  
+- 💳 [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) → Week 4 (Mastery)  
+- 🔗 Combined datasets → Capstone ETL + Warehouse project  
+
+---
+
+## 🏆 LeetCode SQL 150
+- **Daily target:** 5 problems/day × 30 days = 150 problems  
+- Organized by difficulty in `leetcode_solutions/`  
+- Each solution includes:
+  - SQL query
+  - Explanation
+  - README with recruiter-friendly notes
+
+---
+
+## 📖 Documentation
+- **Style Guide:** Consistent SQL formatting & naming conventions  
+- **Interview Prep:** Common SQL interview questions + solutions  
+- **Resources:** Tutorials, blogs, and references  
+
+---
+
+## 🚀 Capstone Project
+Final week includes an **end-to-end ETL pipeline**:
+- Data ingestion (Retail + Churn + Fraud datasets)
+- Cleaning & transformation
+- Warehouse schema design
+- Analytical queries (churn prediction, fraud detection)
+- Documentation in `capstone_project/README.md`
