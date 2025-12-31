@@ -2,7 +2,7 @@
 SQL learning
 
 ------------------------------------------------------------------------------------------------------
-sql-mastery-30days/
+sql-mastery-30days
 │
 ├── README.md                # Overview of the project & roadmap
 ├── docs/                    # Documentation, guides, notes
