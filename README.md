@@ -3,11 +3,10 @@ SQL learning
 
 ------------------------------------------------------------------------------------------------------
 sql-mastery-30days
-│
-├── README.md                # Overview of the project & roadmap
-├── docs/                    # Documentation, guides, notes
-│   ├── style-guide.md
-│   ├── interview-prep.md
+ README.md                # Overview of the project & roadmap
+ docs/                    # Documentation, guides, notes
+ style-guide.md
+ interview-prep.md
 │   └── resources.md
 │
 ├── week1_foundations/
